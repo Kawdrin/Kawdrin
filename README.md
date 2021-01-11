@@ -8,5 +8,5 @@ Criei projetos para o prompt como exemplo o Item-Tree e projetos graficos como o
 
 ![Atom Badge](https://img.shields.io/badge/-Atom-2DE0A7?&logo=atom&labelColor=2e3440&style=for-the-badge&logoColor=2DE0A7) ![Python Badge](https://img.shields.io/badge/-PYTHON-678BDC?&logo=python&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)
 
-## Pacotes de 
+## Pacotes das linguagens que tenho conhecimento:
 ![Made Badge](https://img.shields.io/badge/-Packages%20Python-678BDC?&labelColor=FFDB7D&style=for-the-badge&logoColor=678BDC)![PyGame Badge](https://img.shields.io/badge/-PYGAME-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)![PyGlet Badge](https://img.shields.io/badge/-PYGlet-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)![PySimpleGUI Badge](https://img.shields.io/badge/-PYSimplegui-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)
