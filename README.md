@@ -3,6 +3,10 @@
 <!--
 **Kawdrin/Kawdrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Gmail Badge](https://img.shields.io/badge/-kawan.inf@gmail.com-E72D2D?&style=for-the-badge&logoColor=white&logo=gmail) 
+
+![Link Badge](https://img.shields.io/badge/-Kawan%20Henrique-7AA5FF?&style=for-the-badge&logoColor=white&logo=linkedin) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
