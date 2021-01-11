@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bem Vindo ao meu GitHub 👋
+Me chamo Kawan Henrique e sou um estudante de programação de jogos.
+Criei projetos para o prompt como exemplo o Item-Tree e projetos graficos como o GuyGun.
 
 ![Link Badge](https://img.shields.io/badge/-Kawan%20Henrique%20Pereira-7AA5FF?&style=for-the-badge&logoColor=white&logo=linkedin) ![Gmail Badge](https://img.shields.io/badge/-kawan.inf@gmail.com-E72D2D?&style=for-the-badge&logoColor=white&logo=gmail) 
 
