@@ -3,7 +3,7 @@
 ### Bem Vindo ao meu GitHub 👋
 Me chamo **Kawan Henrique**, sou um estudante de **programação de jogos**.
 
-Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos como exemplo o **GuyGun(BlockSelector)**.
+Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos como exemplo o **GuyGun**.
 
 ## 🕵️Caso queira me contatar🕵️‍♀️:
 
