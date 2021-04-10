@@ -19,7 +19,7 @@ Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos co
 
 ---
 ## 🗃Pacotes das linguagens que tenho conhecimento:
-![Made Badge](https://img.shields.io/badge/-Packages%20Python-678BDC?&labelColor=FFDB7D&style=for-the-badge&logoColor=678BDC)[![PyGame Badge](https://img.shields.io/badge/-PYGAME-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)](https://www.pygame.org/docs/)[![PySimpleGUI Badge](https://img.shields.io/badge/-PYSimplegui-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)](https://github.com/PySimpleGUI)
+![Made Badge](https://img.shields.io/badge/-Packages%20Python-678BDC?&labelColor=FFDB7D&style=for-the-badge&logoColor=678BDC)[![PyGame Badge](https://img.shields.io/badge/-ARCADE-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)](https://www.pygame.org/docs/)[![PySimpleGUI Badge](https://img.shields.io/badge/-PYSimplegui-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)](https://github.com/PySimpleGUI)
 
 ---
 ## 🎓Desejo Estudar:
