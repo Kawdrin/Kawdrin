@@ -23,8 +23,6 @@ Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos co
 
 ---
 ## 🎓Desejo Estudar:
-[![PyGlet Badge](https://img.shields.io/badge/-PYGlet-678BDC?&logo=pypi&labelColor=2e3440&style=for-the-badge&logoColor=678BDC)](https://github.com/pyglet/pyglet)
-
 [![C++ Badge](https://img.shields.io/badge/-C++-7AA5FF?&logo=C%2B%2B&labelColor=2e3440&style=for-the-badge&logoColor=7AA5FF)](https://www.cplusplus.com/)[![C++ Badge](https://img.shields.io/badge/-SFML-7AA5FF?&labelColor=2e3440&style=for-the-badge&logoColor=7AA5FF&logo=hack-the-box)](https://www.sfml-dev.org/index.php)[![C++ Badge](https://img.shields.io/badge/-Dear%20IM%20GUi-7AA5FF?labelColor=2e3440&style=for-the-badge&logoColor=7AA5FF&logo=hack-the-box)](https://github.com/ocornut/imgui)
 
 [![Haxe Badge](https://img.shields.io/badge/-HaxE-E88E2C?&logo=Haxe&labelColor=2e3440&style=for-the-badge&logoColor=E88E2C)](https://haxe.org/)[![Haxe Badge](https://img.shields.io/badge/-Heaps-E88E2C?&labelColor=2e3440&style=for-the-badge&logoColor=E88E2C&logo=hack-the-box)](https://heaps.io/)
