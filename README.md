@@ -7,7 +7,7 @@ Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos co
 
 ## 🕵️Caso queira me contatar🕵️‍♀️:
 
-[![Link Badge](https://img.shields.io/badge/-Kawan%20Henrique%20Pereira-7AA5FF?&style=for-the-badge&logoColor=white&logo=linkedin)]() [![Gmail Badge](https://img.shields.io/badge/-kawan.inf@gmail.com-E72D2D?&style=for-the-badge&logoColor=white&logo=gmail)]()
+[![Link Badge](https://img.shields.io/badge/-Kawan%20Henrique%20Pereira-7AA5FF?&style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/kawan-henrique-pereira/) [![Gmail Badge](https://img.shields.io/badge/-kawan.inf@gmail.com-E72D2D?&style=for-the-badge&logoColor=white&logo=gmail)]()
 
 ---
 
