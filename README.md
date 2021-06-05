@@ -1,7 +1,7 @@
 ---
 
 ### Bem Vindo ao meu GitHub 👋
-Me chamo **Kawan Henrique**, sou um estudante de **programação de jogos**.
+Me chamo **Kawan Henrique**, sou um estudante de **programação com Python**.
 
 Criei projetos para o prompt como exemplo o **Item-Tree** e projetos graficos como exemplo o **GuyGun**.
 
